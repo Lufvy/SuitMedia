@@ -33,7 +33,7 @@
                 android:textStyle="bold"
                 android:textColor="@color/black"
                 android:textSize="23sp"
-                android:text="Second Screen" />
+                android:text="Third Screen" />
 
         </LinearLayout>
     </androidx.cardview.widget.CardView>
